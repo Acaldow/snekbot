@@ -92,3 +92,4 @@ print("hello")
 bot.run(TOKEN)
 
 print('Hello World')
+print('Salut ça va')
