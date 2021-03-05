@@ -94,3 +94,6 @@ bot.run(TOKEN)
 print('Hello World')
 print('Salut ça va')
 print('This is the dev branch')
+
+
+print('hello')
