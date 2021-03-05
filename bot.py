@@ -88,3 +88,5 @@ async def on_command_error(ctx, error):
         await ctx.send('You do not have the correct role for this command.')
 
 bot.run(TOKEN)
+
+print('Hello World')
